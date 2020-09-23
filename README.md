@@ -4,5 +4,5 @@ Hey every one i am here to describe you how to encryupt/obfuscate your c# code i
     create a class library project
     or 
     you can also create dll file with the help of vs(visual studio cmd)
-    a) you have to go that location where your class file is exists and just type csc /t:library /out:DllName.dll yourclassfile.cs
+a) you have to go that location where your class file is exists and just type csc /t:library /out:DllName.dll yourclassfile.cs
     and boom your dll file is created.
